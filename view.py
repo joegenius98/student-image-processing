@@ -18,6 +18,7 @@ import sys
 sys.path.insert(0, "access-images/")
 from RemoteSensingDB import RemSensDB
 
+
 class ReusableForm(Form):
 	### Define text fields and other inputs for the forms on both html pages
 	indexfortemps = 0
